@@ -16,7 +16,7 @@ This repository contains my personal Docker project where I containerized a samp
 
 ## 🛠️ Technologies Used
 
-- **Docker**
+- **Docker Desktop**
 - *(Optional: Docker Compose, Python/Django, Node.js, Nginx, etc.)*
 - **Git & GitHub**
 - **VS Code / Terminal**
